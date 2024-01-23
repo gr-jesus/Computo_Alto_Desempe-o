@@ -1,2 +1,5 @@
-# Computo_Alto_Desempe-o
-Cursos de Cómputo de Alto Desempeño
+# Página de Cursos Impartidos
+
+- Universidad Politécnica Metropolitana de Hidalgo:
+
+  - Cómputo de Alto Desempeño Enero-Abril 2024 [Link](./CAD_MIA_EA_2024)
